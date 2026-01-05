@@ -3646,6 +3646,8 @@ FUZE considers governance “working” when:
 > The platform’s governance is designed to scale trust first, then features.
 
 
+***
+[⬆️ Back to Table of Contents](#table-of-contents)
 ___
 
 # 16. Legal, Privacy, and Compliance
