@@ -245,6 +245,8 @@ R2 -. never merge .- R3
 > Every report is meant to be interpretable without “trust me” narratives.
 > If you remember one rule: never mix Backtest, Paper, and Live results.
 
+***
+[⬆️ Back to Table of Contents](#table-of-contents)
 ---
 # 1. Vision & Market Problem
 
@@ -466,6 +468,8 @@ L -. not equivalent .- C
 > Mode separation is a core rule: Backtest, Paper, and Live are never blended into one narrative.
 
 
+***
+[⬆️ Back to Table of Contents](#table-of-contents)
 ___
 # 2. What FUZE Quant Platform Is
 
@@ -779,6 +783,8 @@ FUZE is built for users who want a disciplined path: **verify → simulate → o
 > For investors, trust-first design creates retention, and usage-based credits create scalable monetization.
 > The segment is valuable because habit + proof + integrity can compound into durable distribution.
 
+***
+[⬆️ Back to Table of Contents](#table-of-contents)
 ___
 
 # 4. Product Overview
@@ -1024,6 +1030,10 @@ Q --> R
 > Key features support proof and daily operation: strategy library, backtests, paper simulation, reports, alerts, exports, data health, and safety controls.
 > Feature access is gated by mode and user level so the platform remains fair, scalable, and easy to understand.
 
+
+
+***
+[⬆️ Back to Table of Contents](#table-of-contents)
 ___
 
 # 5. Telegram Mini App UX
@@ -1307,6 +1317,10 @@ M --> U[User receives\nClear truth category]
 > Safety is always visible: mode badges, pause reasons, data health warnings, and one-tap controls.
 > Alerts are treated as a controlled system—mode-labeled, anti-spam, digest-ready, and respectful of attention.
 
+
+
+***
+[⬆️ Back to Table of Contents](#table-of-contents)
 ___
 
 # 6. Trust & Performance Reporting
@@ -1642,6 +1656,9 @@ FUZE includes a data health summary for the report window. If data was degraded 
 > If you read one thing first: check mode, then drawdown and worst week/day, then regimes—only then look at ROI.
 
 
+
+***
+[⬆️ Back to Table of Contents](#table-of-contents)
 ___
 
 # 7. How It Works
@@ -1897,6 +1914,10 @@ Auditability is a trust moat:
 > Data health protections ensure simulations don’t pretend to be reliable when inputs degrade.
 > Auditability makes results explainable, comparable, and defensible as the platform scales.
 
+
+
+***
+[⬆️ Back to Table of Contents](#table-of-contents)
 ___
 
 # 8. Safety, Risk Controls, and User Protection
@@ -2114,6 +2135,10 @@ W --> U
 > Perps require extra caution: leverage and liquidation make survival metrics and safety controls non-negotiable.
 > Alerts are controlled to prevent spam-driven overtrading, and FUZE never promises profits or certainty.
 
+
+
+***
+[⬆️ Back to Table of Contents](#table-of-contents)
 ___
 
 # 9. Execution Module
@@ -2342,6 +2367,10 @@ G --> H[Live report\nSeparate from simulation]
 > Failure handling is a safety feature—when integrity is uncertain, the system pauses and explains.
 > Paper-first remains the recommended path; Live is an optional step taken only after proof and readiness.
 
+
+
+***
+[⬆️ Back to Table of Contents](#table-of-contents)
 ___
 
 # 10. Credits Economy and Monetization
@@ -2605,6 +2634,10 @@ PR --> UX
 > Levels scale quotas and cost efficiency through bonus credits while keeping pricing transparent.
 > The goal is sustainable growth: clear value exchange, trustworthy operations, and a system that stays fast as usage scales.
 
+
+
+***
+[⬆️ Back to Table of Contents](#table-of-contents)
 ___
 
 # 11. Referral Program and Community Growth
@@ -2762,6 +2795,10 @@ R -. subject to integrity .- Z
 > Share-to-earn is allowed when it stays truthful—mode-labeled reports, clear risk, no guarantees.
 > The referral engine is designed to compound trust: proof drives adoption, and integrity protects the loop.
 
+
+
+***
+[⬆️ Back to Table of Contents](#table-of-contents)
 ___
 
 # 12. Leaderboards and Social Proof
@@ -2943,6 +2980,9 @@ Z -. protects .- S
 > Abuse prevention protects the community loop—when leaderboards stay honest, growth becomes durable.
 
 
+
+***
+[⬆️ Back to Table of Contents](#table-of-contents)
 ___
 
 # 13. Go-To-Market and Distribution
@@ -3116,6 +3156,10 @@ FUZE’s defensibility is not “secret signals.” It is:
 > The go-to-market strategy is simple: proof travels, habits compound, and trust creates durable retention.
 
 
+
+
+***
+[⬆️ Back to Table of Contents](#table-of-contents)
 ___
 
 # 14. Roadmap
@@ -3361,6 +3405,10 @@ New capabilities should ship behind controlled rollout until validated. If a dat
 > Execution is gated by operational readiness; copy trading is future work with strict fairness and labeling rules.
 > The long-term vision is a marketplace and integration ecosystem built on verifiable performance, not claims.
 
+
+
+***
+[⬆️ Back to Table of Contents](#table-of-contents)
 ___
 
 # 15. Team, Operations, and Governance
@@ -3787,6 +3835,9 @@ L --> K[User-controlled access\nBYOK]
 > The most important compliance idea is simple: verify in simulation, choose execution deliberately, and never mix results.
 
 
+
+***
+[⬆️ Back to Table of Contents](#table-of-contents)
 ___
 
 # 17. FAQs
@@ -3999,6 +4050,9 @@ B -. never merge .- C
 > The safest path is simple: learn → observe → decide, with clarity at every step.
 
 
+
+***
+[⬆️ Back to Table of Contents](#table-of-contents)
 __
 
 
@@ -4288,3 +4342,5 @@ Public releases should be tracked in a way that preserves trust. The change log 
 > Public change logs are append-only so progress never rewrites history.
 
 
+***
+[⬆️ Back to Table of Contents](#table-of-contents)
