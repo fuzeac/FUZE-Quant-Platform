@@ -637,6 +637,9 @@ Z -->|Future| C[Copy trading\nAllocation + protections]
 > Execution and copy trading are expansions that must preserve trust boundaries, not bypass them.
 > If the product ever feels like “just screenshots,” it is failing its core design rule: verify, don’t believe.
 
+
+***
+[⬆️ Back to Table of Contents](#table-of-contents)
 ___
 
 # 3. Who It’s For
